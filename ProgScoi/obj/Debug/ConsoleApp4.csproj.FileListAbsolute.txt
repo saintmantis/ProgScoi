@@ -1,0 +1,14 @@
+C:\Users\Егор\source\repos\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Егор\source\repos\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Егор\source\repos\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Егор\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Егор\source\repos\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Егор\Desktop\Poma\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Егор\Desktop\Poma\bin\Debug\ConsoleApp4.exe
+C:\Users\Егор\Desktop\Poma\bin\Debug\ConsoleApp4.pdb
+C:\Users\Егор\Desktop\Poma\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\Poma\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Poma\obj\Debug\ConsoleApp4.exe
+C:\Users\Егор\Desktop\Poma\obj\Debug\ConsoleApp4.pdb
